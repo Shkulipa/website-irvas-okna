@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+destination
+gulp-config.json
+/node_modules/
+/.idea/
+/dist
+/gulp-config.json
